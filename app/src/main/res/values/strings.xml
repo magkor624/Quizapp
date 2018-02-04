@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="biography"><b>Janusz Korczak</b> (1878–1942)  Polish-Jewish doctor, writer, educator,
+        co-founder and director of Orphans\' Home for Children.
+        He wrote books for children and pedagogical works. He was the author of radio talks,
+        admired by entire families, where he preached the rights of the child. He taught how to love children,
+        how to see his needs, possibilities and spoke against corporal punishment.
+        During the II World War, in 1942 German Nazis deported Korczak, his assistants and 200 children
+        from the Orphans\' Home to extermination camp where they were all murdered.\n</string>
+    <string name="do_you_know_more">"Do you know more about Janusz Korczak?</string>
+    <string name="what_was_the_name"><b>1. </b> What was the real familly name of Janusz Korczak?</string>
+    <string name="enter_the_name">(enter the name below)</string>
+    <string name="he_was"><b>2. </b> He was doctor, educator, writer and also &#8230;</string>
+    <string name="tick_all_correct_answers">(tick all the correct answers)</string>
+    <string name="tick_correct_answer">(tick the correct answer below each quotation)</string>
+    <string name="journalist">journalist</string>
+    <string name="lawyer">lawyer</string>
+    <string name="pediatrician">pediatrician</string>
+    <string name="painter">painter</string>
+    <string name="is_it_his_quote"> Is it a quotation from Janusz Korczak?</string>
+    <string name="quote1"><b>3. </b> “Children are not the people of tomorrow, but are people of today(&#8230;)
+        They should be allowed to grow into whoever they were meant to be.
+        "The unknown person" inside of them is our hope for the future.”</string>
+        <string name="quote2"><b>4. </b>“It does not matter that a man know a lot, but it is essential that he know well.
+       It is not important that he know anything by heart, but it is essential that he understand it.”</string>
+    <string name="quote3"><b>5. </b>"Whatever has been achieved through pressure and
+        violence is unstable, unreliable and incorrect.”</string>
+    <string name="quote4"><b>6. </b>“I am watering the flowers.My bald head in the window - what a splendid target.\n
+        He has a rifle.Why is he standing and looking on calmly?\nNo orders.\nAnd perhaps he was a village
+        teacher in civilian life, perhaps a notary, a street sweeper in
+        Leipzig, a waiter in Cologne?\n What would he do if I nodded to him? Waved a hand?\n
+        Perhaps he does not even know that things are as they are?\n
+        He may have arrived only yesterday, from far away.....”</string>
+    <string name="check_the_answers">Check the answers</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="you_have_answered_correctly">"You have answered correctly "</string>
+    <string name="of_6_questions">" of 6 questions."</string>
+    <string name="great">\n Great! Congratulations!</string>
+</resources>
